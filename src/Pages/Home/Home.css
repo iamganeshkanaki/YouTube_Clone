@@ -1,0 +1,11 @@
+
+.sidebar-active {
+    background-color: #555;
+  }
+
+@media (max-width:900px) {
+  .larger-container, .container{
+    padding-left: 5%;
+    padding-right: 10%;
+  }
+}
